@@ -56,7 +56,7 @@ Implemented using Python with Scikit-learn, Pandas, and Seaborn:
 |--------------------|------------|
 | Language           | Python (Pandas, NumPy, Scikit-learn) |
 | Visualization      | Power BI, Seaborn, Matplotlib         |
-| ML Algorithms      | Logistic Regression, Random Forest, GradientBoosting |
+| ML Algorithms      | Gradient Boosting , Logistic Regression , Random Forest |
 | Dashboard          | Power BI Desktop                      |
 
 
