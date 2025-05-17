@@ -11,7 +11,7 @@ To analyze patterns and predict student depression levels based on academic pres
 
 The Power BI Dashboard includes:
 
-| Section                   | Description |
+| Section                  | Description |
 |--------------------------|-------------|
 | **KPI Cards**            | Total Students, % Depressed, High Pressure Count, etc. |
 | **Depression by Gender** | Donut chart showing gender-based depression distribution |
